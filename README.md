@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
-- 👨‍💻 All of my projects are available at [https://mazennotes.com/portfolio/](mazennotes.com/portfolio/)
+- 👨‍💻 All of my projects are available at [mazennotes.com/portfolio/](https://mazennotes.com/portfolio/)
 
-- 📝 I regularly write articles on [mazennotes.com/blog/](mazennotes.com/blog/)
+- 📝 I regularly write articles on [mazennotes.com/blog/](https://mazennotes.com/blog/)
 
 - 💬 Ask me about **Flutter, CSharp, Database, Firebase**
 
